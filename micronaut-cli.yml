@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: metric.collector
+---
+testFramework: junit
+sourceLanguage: java
